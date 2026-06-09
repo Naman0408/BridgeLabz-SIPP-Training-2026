@@ -1,0 +1,25 @@
+.DS_Store
+*.class
+bin/
+out/
+target/
+*.jar
+*.war
+*.iml
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+# OS files
+Thumbs.db
+
+# Maven
+pom.xml.user
+
+# Gradle
+.gradle/
+build/
+
+# logs
+*.log
